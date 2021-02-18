@@ -10,7 +10,7 @@ import itemRouter from './resources/item/item.router';
 
 // mount router on the root server
 // ensure all tests pass by running test command
-
+//adjust
 export const app = express();
 
 app.disable('x-powered-by');
